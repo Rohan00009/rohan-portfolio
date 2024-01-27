@@ -1,4 +1,4 @@
 # rohan-portfolio
 my portfolio
-link to my portfolio:
+link:
 https://rohan00009.github.io/rohan-portfolio/
